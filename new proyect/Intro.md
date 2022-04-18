@@ -4,20 +4,6 @@ This introduction to R is derived from an original set of notes describing the S
 environments written in 1990–2 by Bill Venables and David M. Smith when at the University
 of Adelaide. We have made a number of small changes to reflect differences between the R and
 S programs, and expanded some of the material.
-We would like to extend warm thanks to Bill Venables (and David Smith) for granting
-permission to distribute this modified version of the notes in this way, and for being a supporter
-of R from way back.
-Comments and corrections are always welcome. Please address email correspondence to
-R-core@R-project.org.
-
-Suggestions to the reader
-
-Most R novices will start with the introductory session in Appendix A. This should give some
-familiarity with the style of R sessions and more importantly some instant feedback on what
-actually happens.
-Many users will come to R mainly for its graphical facilities. See Chapter 12 [Graphics],
-page 63, which can be read at almost any time and need not wait until all the preceding sections
-have been digested.
 
 1 Introduction and preliminaries
 
